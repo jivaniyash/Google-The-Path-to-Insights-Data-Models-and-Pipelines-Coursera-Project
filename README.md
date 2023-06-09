@@ -8,7 +8,7 @@ This is the planning phase of the project. Phase 2 -
 
 ### Project Background & Scenario- 
 
-![Cyckistic](https://github.com/jivaniyash/Google-The-Path-to-Insights-Data-Models-and-Pipelines-Coursera-Project/blob/main/_images/_Cyclistic.png)
+![Cyclistic](https://github.com/jivaniyash/Google-The-Path-to-Insights-Data-Models-and-Pipelines-Coursera-Project/blob/main/_images/_Cyclistic.png)
 
 Cyclistic has partnered with the city of New York to provide shared bikes. Currently, there are bike stations located throughout Manhattan and neighboring boroughs. Customers are able to rent bikes for easy travel between stations at these locations.
 
