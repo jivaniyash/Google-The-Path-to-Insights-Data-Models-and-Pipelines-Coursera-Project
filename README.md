@@ -40,9 +40,20 @@ The product development team at Cyclistic has begun developing their business pl
 
 # DataSet Gathering
 
-Additionally, one of your coworkers finds out you’re working on this project and shares a dataset they created recently for a project of their own that they think might help you: [NYC zip codes](https://docs.google.com/spreadsheets/d/1IIbH-GM3tdmM5tl56PHhqI7xxCzqaBCU0ylItxk_sy0/template/preview#gid=806359255) in Drive or use [Cyclistic NYC zip codes - list]()
 
-. This dataset provides the zip codes for the different neighborhoods and boroughs in New York City; this will let you compare the bike data to the weather data more easily since you will be able to match the locations more accurately. It will also help you develop your map visualization later on.  
+
+
+Additionally, one of your coworkers finds out you’re working on this project and shares a dataset they created recently for a project of their own that they think might help you: [NYC zip codes](https://docs.google.com/spreadsheets/d/1IIbH-GM3tdmM5tl56PHhqI7xxCzqaBCU0ylItxk_sy0/template/preview#gid=806359255) in Drive or use [Cyclistic NYC zip codes - list](https://github.com/jivaniyash/Google-The-Path-to-Insights-Data-Models-and-Pipelines-Coursera-Project/blob/main/Cyclistic%20NYC%20zip%20codes%20-%20list.csv).
+
+This dataset provides the zip codes for the different neighborhoods and boroughs in New York City; this will let you compare the bike data to the weather data more easily since you will be able to match the locations more accurately. It will also help you develop your map visualization later on.  
+
+In this activity, you created target tables to consolidate and store the data you pulled from the Cyclistic datasets. 
+
+Table 1 - [Query 1](https://github.com/jivaniyash/Google-The-Path-to-Insights-Data-Models-and-Pipelines-Coursera-Project/blob/main/SQL_BigQuery.sql) - SQL query to create a summary table for the entire year
+
+Table 2 - [Query 2](https://github.com/jivaniyash/Google-The-Path-to-Insights-Data-Models-and-Pipelines-Coursera-Project/blob/main/SQL_BigQuery.sql) - results into a similar table as the previous query, except it focuses on trends from July through September that captured data from just the summer season
+
+These tables will allow you to develop a dashboard using Tableau in the upcoming end-of-course project activities in the next course -- Phase - 3 -- [Google-Decisions-Decisions-Dashboards-and-Reports](). As a BI professional, you will need to be able to use programs such as BigQuery and Dataflow to move and analyze data with SQL. 
 
 ---
 
