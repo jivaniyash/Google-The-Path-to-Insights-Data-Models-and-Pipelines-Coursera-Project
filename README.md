@@ -70,7 +70,7 @@ In this fictitious workplace scenario, the imaginary company Cyclistic has partn
 
 Scenario:
 
-I am a newly hired BI professional at Cyclistic. The company’s Customer Growth Team is creating a business plan for next year. They want to understand how their customers are using their bikes; their top priority is identifying customer demand at different station locations. Previously from [Phase - 1](https://github.com/jivaniyash/Google-Foundations-of-Business-Intelligence-Coursera-Project), I gathered information from meeting notes and completed important project planning documents. 
+I am a newly hired BI professional at Cyclistic. The company’s Customer Growth Team is creating a business plan for next year. They want to understand how their customers are using their bikes; their top priority is identifying customer demand at different station locations. Previously from [Phase - 1 - Google-Foundations-of-Business-Intelligence-Coursera-Project](https://github.com/jivaniyash/Google-Foundations-of-Business-Intelligence-Coursera-Project), I gathered information from meeting notes and completed important project planning documents. 
 
 Course 2 challenge:
 
