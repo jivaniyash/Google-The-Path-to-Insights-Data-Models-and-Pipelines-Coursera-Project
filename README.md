@@ -59,7 +59,7 @@ Table 1 - [Query 1](https://github.com/jivaniyash/Google-The-Path-to-Insights-Da
 
 Table 2 - [Query 2](https://github.com/jivaniyash/Google-The-Path-to-Insights-Data-Models-and-Pipelines-Coursera-Project/blob/main/SQL_BigQuery.sql) - results into a similar table as the previous query, except it focuses on trends from July through September that captured data from just the summer season.
 
-These tables will allow you to develop a dashboard using Tableau in the upcoming end-of-course project activities in the next course -- Phase - 3 -- [Google-Decisions-Decisions-Dashboards-and-Reports](). As a BI professional, you will need to be able to use programs such as BigQuery and Dataflow to move and analyze data with SQL. 
+These tables will allow you to develop a dashboard using Tableau in the upcoming end-of-course project activities in the next course -- Phase - 3 -- [Google-Decisions-Decisions-Dashboards-and-Reports](https://github.com/jivaniyash/Google-Decisions-Decisions-Dashboards-and-Reports-Coursera-Project). As a BI professional, you will need to be able to use programs such as BigQuery and Dataflow to move and analyze data with SQL. 
 
 ---
 
