@@ -4,7 +4,7 @@ This repository contains Project files for the final end of course project of CO
 
 ---
 
-This is the planning phase of the project. Phase 2 - 
+This is the data-gathering phase of the project. Phase 2 - 
 
 ### Project Background & Scenario- 
 
